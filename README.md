@@ -1,8 +1,4 @@
-# Demo
 
-<a href="http://djminapi.herokuapp.com"> Backend api</a>
-
-<a href="http://djmin.netlify.com"> Main application</a>
 
 
 # Overview
@@ -25,7 +21,7 @@ Please follow the setup instrutions as follow in order to view the complete app 
 
 clone the repositroy:-
 ```
-git clone https://github.com/vinitraj10/Django-React-Blog 
+git clone https://github.com/evansMeja/Django-React-Blog.git 
 ```
 Create Virtual env for django-part:-
 ```
